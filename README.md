@@ -1,24 +1,21 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
+         __                         
+|\/|    |_. _ _|_  |  | _|_  _.|_ _ 
+|  |\/  | || _)|_  |/\|(-|_)_)||_(- 
+    /                               
 
-Hi there! Welcome to Cloud9 IDE!
+#Welcome to my First Website
 
-To get you started, we included a small hello world application.
+##Overview
+This website is a demonstration of a number of aspects of HTML and CSS.
 
-1) Open the hello-world.html file
+###HTML
 
-2) Click on the Preview button to open a live preview pane
+###CSS
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
+##Go there now!
+https://gripsiden.github.io/my-first-website/
+[Visit my first Website hosted right here at GITHUB ](https://gripsiden.github.io/my-first-website/ "Go to Gripsidens First Website")
 
 ## Support & Documentation
 

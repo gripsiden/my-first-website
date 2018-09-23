@@ -1,0 +1,15 @@
+.box 
+{
+ width:200px;
+ height:200px;
+ border: 1px solid #000;
+ display:inline-block;   
+}
+
+/* Media Queries */
+
+@media (max-width :767px) {
+    .mobile {
+        background-color: #0997d3;
+    }
+}

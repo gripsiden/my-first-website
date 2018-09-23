@@ -35,3 +35,7 @@ This website is a demonstration of a number of aspects of HTML and CSS.
   * https://validator.w3.org/nu/?doc=https%3A%2F%2Fgripsiden.github.io%2Fmy-first-website%2Findex.html
   * https://validator.w3.org/nu/?doc=https%3A%2F%2Fgripsiden.github.io%2Fmy-first-website%2Fstream-two.html
   * https://validator.w3.org/nu/?doc=https%3A%2F%2Fgripsiden.github.io%2Fmy-first-website%2Fstream-three.html
+
+#### w3c CSS Validation Check 
+  * https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgripsiden.github.io%2Fmy-first-website%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+

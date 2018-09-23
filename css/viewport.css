@@ -13,3 +13,9 @@
         background-color: #0997d3;
     }
 }
+
+@media (min-width :768px) and (max-width :999px)  {
+    .table {
+        background-color: #0bada55;
+    }
+}

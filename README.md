@@ -1,9 +1,4 @@
 
-         __                         
-|\/|    |_. _ _|_  |  | _|_  _.|_ _ 
-|  |\/  | || _)|_  |/\|(-|_)_)||_(- 
-    /                               
-
 #Welcome to my First Website
 
 ##Overview

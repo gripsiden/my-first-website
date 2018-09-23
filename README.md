@@ -31,3 +31,5 @@ This website is a demonstration of a number of aspects of HTML and CSS.
 
 [Visit my first Website hosted right here at GITHUB ](https://gripsiden.github.io/my-first-website/ "Go to Gripsidens First Website")
 
+#### w3c Validation Check 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fgripsiden.github.io%2Fmy-first-website%2Findex.html

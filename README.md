@@ -15,8 +15,17 @@ This website is a demonstration of a number of aspects of HTML and CSS.
 
   * Links
   * Lists
+  * Divs
+  * CSS Style Sheet
+  * Images
 
 ### CSS
+
+  * Handling for Rows & Cards of images
+  * Opacity Change on Hover
+  * Margins
+  * Floats
+  * Text Alignment
 
 ## Go there now!
 

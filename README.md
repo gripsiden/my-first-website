@@ -13,6 +13,9 @@ This website is a demonstration of a number of aspects of HTML and CSS.
 
 ### HTML
 
+..*Links
+..*Lists
+
 ### CSS
 
 ## Go there now!
